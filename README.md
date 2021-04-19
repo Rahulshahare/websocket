@@ -8,3 +8,8 @@ Streaming Technologies are far modern Technology and can be useful where live da
 - A reactjs app, Getting data from connected  websocket server at beginning and show on screen. The data of app changes as data on websocket server change.
 
 The streaming service can be use where live data is required.
+
+Here's working shot:
+
+![websocketServerAndApp](https://raw.githubusercontent.com/Rahulshahare/websocket/master/working-screen/Screenshot%20from%202021-04-19%2020-58-16.png)
+
