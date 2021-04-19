@@ -29,5 +29,6 @@ wss.on('connection', async (ws) => {
         ]
         await sleep(1000);
         ws.send(JSON.stringify(data));
+	console.log(data);
     }
 });
